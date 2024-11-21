@@ -1,6 +1,10 @@
 ### 👋 Hi there, I am Thu Bui!
 
-🏢 Currently working as a Software Engineer at Viettel Networks, with experience in developing scalable software solutions and collaborating with cross-functional teams.
+🏫 Currently enjoying my Master of Science in Computer Science at Texas A&M University. It’s challenging (a lot of assignments to do, a lot of papers to read, a lot of lectures to see), but I'm excited to deepen my knowledge and grow in this field!!!
+
+👩‍💻 Recently have a strong interest in Computer Architecture and Operating Systems. What remarkable examples of human innovation and creativity!!!
+
+🏢 I am a former Software Engineer at Viettel Networks, with experience in developing scalable software solutions and collaborating with cross-functional teams.
 
 💻 Specializing in Full Stack Web Development, with expertise in Java, Spring Boot, JavaScript and ReactJS. Passionate about creating user-friendly and efficient applications.
 
